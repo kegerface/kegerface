@@ -116,7 +116,7 @@ span {
 	border-left: 1px white dashed;
 	float:left;
 }
-#BeerNamel {
+#BeerNameL {
         height: 180px;
         width: 580px;
         padding-left: 10px;
@@ -131,7 +131,7 @@ span {
 	-webkit-margin-before: 10px;
 	-webkit-margin-after: 1.82em;
 }
-#BeerNamel h1 {
+#BeerNameL h1 {
         color: white;
         font: 1.5em Georgia;
         font-weight: bold;
@@ -139,7 +139,7 @@ span {
         -webkit-margin-before: 10px;
         -webkit-margin-after: .8em;
 }
-#BeerNamel h2 {
+#BeerNameL h2 {
         font: 1em Georgia;
         color: #888888;
 }
