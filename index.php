@@ -51,7 +51,7 @@
 				?>
 			</div>
 			<div id="headerboxa">
-				<img src="/kegerface/images/blank.png" height="100">
+				<img src="/images/blank.png" height="100">
 			</div>		
 			<div id="headerboxb">
 				<h1>BEERS ON TAP</h1>
@@ -80,7 +80,7 @@
 		<!-- Tap 1 -->
 		<div id="content-row1a">
 			<div id="BeerPic">
-				<img src="/kegerface/images/SRM <?php echo $srm['Beer1']; ?>.png" height="150">
+				<img src="/images/SRM <?php echo $srm['Beer1']; ?>.png" height="150">
 			</div>	
 			<div id="<?php echo $beernamel['Beer1']; ?>">
 				<?php echo "<h1>", $beername['Beer1'], "</h1>";
@@ -89,10 +89,10 @@
 			<div id="BeerInfo">
 				<?php echo $abv['Beer1']; ?>
 				<br /><h2>ABV</h2>
-				<img src="/kegerface/images/<?php echo $hops['Beer1']; ?> Hops.png" width="200">
+				<img src="/images/<?php echo $hops['Beer1']; ?> Hops.png" width="200">
 			</div>
 			<div id="BeerStatus">
-				<img src="/kegerface/images/kegs/<?php echo $status['Beer1']; ?>.png" width="80">
+				<img src="/images/kegs/<?php echo $status['Beer1']; ?>.png" width="80">
 			</div>
 		</div>
 		
@@ -102,7 +102,7 @@
 			</div>		
 			<div id="content-row2a">
 			<div id="BeerPic">
-				<img src="/kegerface/images/SRM <?php echo $srm['Beer2']; ?>.png" height="150">
+				<img src="/images/SRM <?php echo $srm['Beer2']; ?>.png" height="150">
 			</div>	
 			<div id="<?php echo $beernamel['Beer2']; ?>">
 				<?php echo "<h1>", $beername['Beer2'], "</h1>";
@@ -111,10 +111,10 @@
 			<div id="BeerInfo">
 				<?php echo $abv['Beer2']; ?>
 				<br /><h2>ABV</h2>
-				<img src="/kegerface/images/<?php echo $hops['Beer2']; ?> Hops.png" width="200">
+				<img src="/images/<?php echo $hops['Beer2']; ?> Hops.png" width="200">
 			</div>
 				<div id="BeerStatus">
-					<img src="/kegerface/images/kegs/<?php echo $status['Beer2']; ?>.png" width="80">
+					<img src="/images/kegs/<?php echo $status['Beer2']; ?>.png" width="80">
 				</div>
 			</div>
 		</div>
@@ -122,7 +122,7 @@
 		<!-- Tap 3 -->		
 		<div id="content-rowe">
 			<div id="BeerPic">
-				<img src="/kegerface/images/SRM <?php echo $srm['Beer3']; ?>.png" height="150">
+				<img src="/images/SRM <?php echo $srm['Beer3']; ?>.png" height="150">
 			</div>	
 			<div id="<?php echo $beernamel['Beer3']; ?>">
 				<?php echo "<h1>", $beername['Beer3'], "</h1>";
@@ -131,10 +131,10 @@
 			<div id="BeerInfo">
 				<?php echo $abv['Beer3']; ?>
 				<br /><h2>ABV</h2>
-				<img src="/kegerface/images/<?php echo $hops['Beer3']; ?> Hops.png" width="200">
+				<img src="/images/<?php echo $hops['Beer3']; ?> Hops.png" width="200">
 			</div>
 			<div id="BeerStatus">
-				<img src="/kegerface/images/kegs/<?php echo $status['Beer3']; ?>.png" width="80">
+				<img src="/images/kegs/<?php echo $status['Beer3']; ?>.png" width="80">
 			</div>
 		</div>
 
@@ -144,7 +144,7 @@
 			</div>		
 			<div id="content-row2a">
 				<div id="BeerPic">
-				<img src="/kegerface/images/SRM <?php echo $srm['Beer4']; ?>.png" height="150">
+				<img src="/images/SRM <?php echo $srm['Beer4']; ?>.png" height="150">
 			</div>	
 			<div id="<?php echo $beernamel['Beer4']; ?>">
 				<?php echo "<h1>", $beername['Beer4'], "</h1>";
@@ -153,10 +153,10 @@
 				<div id="BeerInfo">
 				<?php echo $abv['Beer4']; ?>
 				<br /><h2>ABV</h2>
-				<img src="/kegerface/images/<?php echo $hops['Beer4']; ?> Hops.png" width="200">
+				<img src="/images/<?php echo $hops['Beer4']; ?> Hops.png" width="200">
 			</div>
 				<div id="BeerStatus">
-					<img src="/kegerface/images/kegs/<?php echo $status['Beer4']; ?>.png" width="80">
+					<img src="/images/kegs/<?php echo $status['Beer4']; ?>.png" width="80">
 				</div>
 			</div>
 		</div>
@@ -164,7 +164,7 @@
 		<!-- Tap 5 -->
 		<div id="content-rowe">
 			<div id="BeerPic">
-				<img src="/kegerface/images/SRM <?php echo $srm['Beer5']; ?>.png" height="150">
+				<img src="/images/SRM <?php echo $srm['Beer5']; ?>.png" height="150">
 			</div>	
 			<div id="<?php echo $beernamel['Beer5']; ?>">
 				<?php echo "<h1>", $beername['Beer5'], "</h1>";
@@ -173,10 +173,10 @@
 			<div id="BeerInfo">
 				<?php echo $abv['Beer5']; ?>
 				<br /><h2>ABV</h2>
-				<img src="/kegerface/images/<?php echo $hops['Beer5']; ?> Hops.png" width="200">
+				<img src="/images/<?php echo $hops['Beer5']; ?> Hops.png" width="200">
 			</div>
 			<div id="BeerStatus">
-				<img src="/kegerface/images/kegs/<?php echo $status['Beer5']; ?>.png" width="80">
+				<img src="/images/kegs/<?php echo $status['Beer5']; ?>.png" width="80">
 			</div>
 		</div>
 
@@ -186,7 +186,7 @@
 			</div>		
 			<div id="content-row2a">
 				<div id="BeerPic">
-				<img src="/kegerface/images/SRM <?php echo $srm['Beer6']; ?>.png" height="150">
+				<img src="/images/SRM <?php echo $srm['Beer6']; ?>.png" height="150">
 			</div>	
 			<div id="<?php echo $beernamel['Beer6']; ?>">
 				<?php echo "<h1>", $beername['Beer6'], "</h1>";
@@ -195,10 +195,10 @@
 				<div id="BeerInfo">
 				<?php echo $abv['Beer6']; ?>
 				<br /><h2>ABV</h2>
-				<img src="/kegerface/images/<?php echo $hops['Beer6']; ?> Hops.png" width="200">
+				<img src="/images/<?php echo $hops['Beer6']; ?> Hops.png" width="200">
 			</div>
 				<div id="BeerStatus">
-					<img src="/kegerface/images/kegs/<?php echo $status['Beer6']; ?>.png" width="80">
+					<img src="/images/kegs/<?php echo $status['Beer6']; ?>.png" width="80">
 				</div>
 			</div>
 		</div>		
