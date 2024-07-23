@@ -1,10 +1,13 @@
 body {
-  background-image: url('images/background.jpg');
+  background-color: rgba(93, 131, 91, 0.482)
+}
+#wrap {
+	width: 1325px;
 }
 #header {
 	width: 1014px;
 	height: 100px;
-	border-bottom: 1px white dashed;
+	border-bottom: 2px white solid;
 }
 #headerboxb {
 	width:342px;
@@ -15,14 +18,14 @@ body {
 	padding-left: 30px;
 	width: 141px;
 	float: left;
-	font: 1.3em Georgia;
+	font: 1.3em Optima;
 	color: white;
 	font-weight: bold;
 	text-align: center;
 }
 h1 {
     color: white;
-    font-family: Georgia;
+    font-family: Optima;
 	font-size: 2.5em;
 }
 span {
@@ -42,7 +45,7 @@ span {
 	position: relative;
 	z-index: 1;
 	opacity: .4;
-	background: grey;
+	background: ;
 	text-align: center;
 	vertical-align: middle;
 }
@@ -59,12 +62,12 @@ span {
 	width: 580px;
 	padding-left: 10px;
 	padding-top: 5px;
-	border-left: 1px white dashed;
+	border-left: 0px white dashed;
 	position: relative;
 	z-index: 2;
 	top: -30px;
 	float: left;
-	font: 1em arial, verdana, sans-serif;
+	font: 1em Optima;
 	color: white;
 	text-align: center;
 	font-weight: bold;
@@ -74,13 +77,13 @@ span {
 	height: 25px;
 	width: 140px;
 	padding-top: 5px;
-	border-left: 1px white dashed;
-	border-right: 1px white dashed;
+	border-left: 0px white dashed;
+	border-right: 0px white dashed;
 	position: relative;
 	z-index: 2;
 	top: -30px;
 	float: left;
-	font: 1em arial, verdana, sans-serif;
+	font: 1em Optima;
 	color: white;
 	text-align: center;
 	font-weight: bold;
@@ -94,7 +97,7 @@ span {
 	z-index: 2;
 	top: -30px;
 	float: left;
-	font: 1em arial, verdana, sans-serif;
+	font: 1em Optima;
 	color: white;
 	text-align: center;
 	font-weight: bold;
@@ -113,19 +116,19 @@ span {
 	height: 180px;
 	width: 580px;
 	padding-left: 10px;
-	border-left: 1px white dashed;
+	border-left: 0px white dashed;
 	float:left;
 }
 #BeerNameL {
         height: 180px;
         width: 580px;
         padding-left: 10px;
-        border-left: 1px white dashed;
+        border-left: 0px white dashed;
         float:left;
 }
 #BeerName h1 {
 	color: white;
-	font: 1.5em Georgia;
+	font: 1.5em Optima;
 	font-weight: bold;
 	word-wrap: break-word;
 	-webkit-margin-before: 10px;
@@ -133,35 +136,35 @@ span {
 }
 #BeerNameL h1 {
         color: white;
-        font: 1.5em Georgia;
+        font: 1.5em Optima;
         font-weight: bold;
         word-wrap: break-word;
         -webkit-margin-before: 10px;
         -webkit-margin-after: .8em;
 }
 #BeerNameL h2 {
-        font: 1em Georgia;
-        color: #888888;
+        font: 1em Optima;
+        color: white;
 }
 #BeerName h2 {
-	font: 1em Georgia;
-	color: #888888;
+	font: 1em Optima;
+	color: white;
 }
 #BeerInfo {
 	height:170px;
 	width: 140px;
 	float:left;
-	padding-top:10px;
-	border-left: 1px white dashed;
-	border-right: 1px white dashed;
+	padding-top:45px;
+	border-left: 0px white dashed;
+	border-right: 0px white dashed;
 	text-align: center;
-	font: 1.8em Georgia;
-	color: #D8D8D8;
+	font: 1.8em Optima;
+	color: white	;
 }
 #BeerInfo h2 {
 	text-align: center;
-	font: .5em Georgia;
-	color: #C0C0C0;
+	font: .5em Optima;
+	color: white;
 	-webkit-margin-before: 5px;
 	-webkit-margin-after: 0px;
 }
@@ -174,14 +177,14 @@ span {
 	opacity: .8;
 }
 #content-row1a {
-	font: 1.5em arial, verdana, sans-serif;
+	font: 1.5em Optima;
 	width: 1012px;
 	height: 180px;
 	position: relative;
 	top: -30;
 }
 #content-rowe {
-	font: 1.5em arial, verdana, sans-serif;
+	font: 1.5em Optima;
 	width: 1012px;
 	height: 180px;
 }
@@ -195,13 +198,13 @@ span {
 	width: 1012px;
 	height: 180px;
 	z-index: 2;
-	font: 1.5em arial, verdana, sans-serif;
+	font: 1.5em Optima;
 }
 #content-row2g {
 	position: absolute;
 	width: 1012px;
 	height: 180px;
-	background: gray;
+	background: ;
 	opacity:0.4;
 	z-index: 1;
 }

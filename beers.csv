@@ -1,7 +1,7 @@
 BeerNum,BeerName,Style,Brewery,ABV,IBU,SRM,Status,BeerNameL
-Beer1,BeerName,Style,Brewery,ABV,IBU,SRM,Status,BeerName
-Beer2,BeerName,Style,Brewery,ABV,IBU,SRM,Status,BeerName
-Beer3,BeerName,Style,Brewery,ABV,IBU,SRM,Status,BeerName
-Beer4,BeerName,Style,Brewery,ABV,IBU,SRM,Status,BeerName
+Beer1,Gone Fiddlin',American Amber Ale,Caramel - Dark Bread - Mocha - Resin - Rounded,5.4%,1,25,Left,BeerName
+Beer2,Golden Lager,Pilsner Beer,Honeysuckle - Toasted Cracker - Crisp,5.4%,1,1,Center,BeerName
+Beer3,Small Batch Pale Ale,American Pale Ale,Bread Crust - Citrus - Fruit Loops - Crisp,5.4%,2,10,Right,BeerName
+Beer4,Peach Sour,Fruited Sour Ale,Ripe Peach - Sour Candy,5.3%,0,5,Request,BeerName
 Beer5,BeerName,Style,Brewery,ABV,IBU,SRM,Status,BeerName
 Beer6,BeerName,Style,Brewery,ABV,IBU,SRM,Status,BeerName
